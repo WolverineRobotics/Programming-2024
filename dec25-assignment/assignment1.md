@@ -12,9 +12,9 @@
 
 Welcome to Assignment 1.
 
-First there is an [Lab](#lab) to get you familiar with stuff.
+There are two (optional) [labs](#lab) to get you warmed up for the assignment question. Doing and understanding the labs should make the assignment very easy.
 
-Secondly, there are a couple of assignment questions you should do before the next class where we'll go over the solutions together.
+Then complete the [assignment](#assignment) before our next seminar, where we'll go over the solution together.
 
 ## Lab
 
